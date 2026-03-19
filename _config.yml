@@ -26,7 +26,7 @@ url                      : "https://na0k1m.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "na0k1m/na0k1m.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/bear.jpg"
+logo                     : "/assets/images/palm.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -115,9 +115,9 @@ analytics:
 # Site Author
 author:
   name             : "nana"
-  avatar           : "/assets/images/bear.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "/assets/images/profileBear.jpeg"
+  bio              : "iOS Developer"
+  location         : "Apple Developer Academy"
   email            : "jenny6816@naver.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
