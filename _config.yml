@@ -95,7 +95,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/profileBear.jpeg"
 og_image_alt             : # Alt text for Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -116,9 +116,9 @@ analytics:
 author:
   name             : "nana"
   avatar           : "/assets/images/profileBear.jpeg"
-  bio              : "iOS Developer"
+  bio              : "**All-rounder** Developer"
   location         : "Apple Developer Academy"
-  email            : "jenny6816@naver.com"
+  # email            : "jenny6816@naver.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
@@ -325,7 +325,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
